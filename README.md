@@ -11,7 +11,7 @@ Outputs a visually appealing WordCloud.
 
 # How It Works
 Input Text: The script reads text data from a file (text.csv).
-Mask Image: The shape of the WordCloud is based on a black-and-white mask image (text.jpg).
+Mask Image: The shape of the WordCloud is based on a black-and-white mask image (husain.png).
 WordCloud Generation: The script processes the text and fills the mask shape with words.
 Visualization: The WordCloud is displayed using Matplotlib for viewing and saving.
 
